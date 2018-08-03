@@ -1,14 +1,3 @@
----
-title: "Business Confidence & Growth"
-author: "David Hood"
-date: "8/3/2018"
-output: 
-  html_document: 
-    keep_md: yes
----
-
-
-
 
 This is my version of New Zealand business confidence and growth. You can think of it as an alternative view to Peter Ellis's analysis, which reflects my (different) approach and assumptions about the data. Peter's analysis should be read first, over here:
 
